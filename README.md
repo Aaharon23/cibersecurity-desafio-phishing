@@ -15,5 +15,3 @@ Obtendo o endereço da máquina: ifconfig
 Clone : google.com
 # Resutados
 
-
-![Resultado]file:///home/aaharon23/Imagens/Capturas%20de%20tela/testesetoolkit.png
