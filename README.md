@@ -15,3 +15,5 @@ Obtendo o endereço da máquina: ifconfig
 Clone : google.com
 # Resutados
 
+![Resultado](img/testesetoolkit.png)
+
